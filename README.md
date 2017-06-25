@@ -20,7 +20,7 @@ If you have previously installed Python 3 using Homebrew or another package mana
 - `pip3 install tensorflow`
 - `pip3 install keras`
 
-Some of these, especially Scipy, will take some time to install.
+Some of these might take some time to download and install.
 
 ## If you don't know if you have Python 3 or not
 
